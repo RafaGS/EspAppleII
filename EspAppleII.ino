@@ -201,8 +201,8 @@ void setup()
 {  
 #ifdef DEBUG_PROG
   Serial.begin(BAUD_RATE);
-  Serial.setRxBufferSize(SERIAL_SIZE_RX);
-  Serial.setTxBufferSize(SERIAL_SIZE_TX);
+  //Serial.setRxBufferSize(SERIAL_SIZE_RX);
+  //Serial.setTxBufferSize(SERIAL_SIZE_TX);
   delay(1000); 
 #endif
   
