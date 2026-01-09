@@ -1,3 +1,5 @@
+Más sobre retroinformática aquí: [https://minibots.wordpress.com/retroinformatica/]
+
 # AppleII no ESP32 (saida de video VGA e som)
 ![][1]
 
